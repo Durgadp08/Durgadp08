@@ -1,7 +1,9 @@
 <div align="center" style="margin-bottom: 50px;">
-    <h1>hey there</h1>
+    hey there
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" height="30px" />
 </div>
+
+<div>-</div>
 
 <div align="center">
     <img src="https://media.giphy.com/media/RiykPw9tgdOylwFgUe/giphy.gif" width="100"/>
