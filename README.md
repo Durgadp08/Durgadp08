@@ -19,7 +19,6 @@
 ### :man_technologist: About Me :
 
 I’m a final year student at National Instiute of Technology, Puducherry in the department of ECE
-- :telescope: 
 
 - :seedling: Exploring Technical Content Writing.
 
