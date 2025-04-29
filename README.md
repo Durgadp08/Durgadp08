@@ -1,19 +1,3 @@
-github profile markdown generator logo
-GitHub Profile README Generator
-Star this repo
-22699
-Fork on GitHub
-7538
-
-back to edit
-
-copy-markdown
-
-download markdown
-
-download backup
-
-preview
 <h1 align="center">Hi 👋, I'm Durga Prasad</h1>
 <h3 align="center">A passionate software developer who always trives to get the best out of me .</h3>
 
