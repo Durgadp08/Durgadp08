@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Durga Prasad</h1>
-<h3 align="center">A passionate software developer who always trives to get the best out of me .</h3>
+<h3 align="center">A passionate software developer who always strives to bring out the best in myself .</h3>
 
 # 💫 About Me:
 - 🌱 I’m currently learning **Spring framwork , LLD**
